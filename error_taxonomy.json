@@ -1,0 +1,26 @@
+{
+  "bart_finetuned": {
+    "missing_symptoms": 3,
+    "incorrect_diagnosis": 0,
+    "fabrication": 0,
+    "generic": 0
+  },
+  "flan_finetuned": {
+    "missing_symptoms": 3,
+    "incorrect_diagnosis": 0,
+    "fabrication": 0,
+    "generic": 0
+  },
+  "t5_zeroshot": {
+    "missing_symptoms": 2,
+    "incorrect_diagnosis": 35,
+    "fabrication": 0,
+    "generic": 0
+  },
+  "rag_k3": {
+    "missing_symptoms": 2,
+    "incorrect_diagnosis": 34,
+    "fabrication": 0,
+    "generic": 3
+  }
+}

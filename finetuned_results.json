@@ -1,0 +1,1 @@
+{"bart": {"rouge1": 53.35, "rouge2": 32.73, "rougeL": 44.12}, "flan_t5": {"rouge1": 58.44, "rouge2": 47.84, "rougeL": 55.74}}

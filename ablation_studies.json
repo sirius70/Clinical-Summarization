@@ -1,0 +1,1 @@
+{"retrieval_impact": {"rouge1_delta": -2.5600000000000023, "rouge2_delta": 0.6300000000000008}, "finetuning_impact": {"bart_vs_zeroshot": 29.29}, "k_sensitivity": {"k1": 27.26, "k2": 28.99, "k3": 25.58, "k5": 16.95}}

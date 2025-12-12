@@ -1,0 +1,6 @@
+,seconds
+bart_finetuned_latency,0.588
+flan_finetuned_latency,3.392
+t5_zeroshot_latency,1.802
+llm_baseline_latency,1.138
+rag_latency_k3,1.659
